@@ -17,8 +17,8 @@ highlight_name: true
 
 interests:
 - Causal inference
-- Survival Data Analysis
-- Longitudinal Data Analysis
+- Survival data analysis
+- Longitudinal data analysis
 - Meta-analysis
 
 
