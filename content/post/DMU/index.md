@@ -17,10 +17,3 @@ summary: ""
 title: Lecturer at Debre Markos University
 ---
 
-### Responsibilities include:
-
-- Taught various Statistical courses and implemented statistics like sampling and validation, developing statistical analysis processes and managing and manipulating data sets, analyzing with appropriate research methodologies, and interpreting quantitative data and analysis impact evaluation.
-- Designing and Conducting Analytic Studies
-- Taught Statistical computing (SPSS, SAS, R) for advanced data wrangling and visualization.
-- Supervised undergraduate students.
-- Conducted research, projects, and community services.

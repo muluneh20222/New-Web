@@ -1,6 +1,6 @@
 ---
 title: "R Markdown"
-author: "Yebelay Berehan"
+author: "Muluneh Alene"
 date: 2022-05-16T21:13:14-05:00
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
