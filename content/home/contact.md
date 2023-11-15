@@ -25,7 +25,7 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: mulunehadis@gmail.com
+  email: mulunehadis@gmail.com/muluneh.alene@ugent.be
   phone: +251 922894376
 
 design:
