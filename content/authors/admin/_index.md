@@ -25,7 +25,7 @@ interests:
 
 organizations:
 
-- name: Debre Markos University
+- name: Ghent University/Gondar University
 
 role: PhD student
 social:
