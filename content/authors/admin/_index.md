@@ -45,6 +45,6 @@ superuser: true
 title: Muluneh Alene
 ---
 
-Muluneh Alene is a PhD student at Ghent/Gondar University. I have 11 year of experience in teaching and implementing statistics. My research interest is causal inference, meta-analysis, and survival data analysis. I am good in utilizing R for statistical programming and conducting data analytics.  
+I am a PhD student at Ghent/Gondar University. I have 11 year of experience in teaching and implementing statistics. My research interest focused on causal inference, meta-analysis, and survival data analysis. I am good in utilizing R for statistical programming and conducting data analytics.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.doc" "newtab" >}}CV{{< /staticref >}}.
