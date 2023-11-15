@@ -21,6 +21,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+
 experience:
 
   - title: Lecturer
@@ -30,8 +31,6 @@ experience:
     location: Ethiopia
     date_start: '10 July, 2017'
     date_end: '09, April 2019 '
-
-
   - title: Lecturer
     company: "[Debre Markos University](http://www.dmu.edu.et/)" 
     company_url: ''
@@ -39,14 +38,13 @@ experience:
     location: Ethiopia
     date_start: '09, April 2019'
     date_end: ''
-
   - title: PhD student
     company: "[Ghent University](https://www.ugent.be/en/)" 
     company_url: ''
     #company_logo: org-x
     location: Ethiopia
     date_start: '01, October 2021'
-    date_end: 
+    date_end: ''
 
 design:
   columns: '2'
