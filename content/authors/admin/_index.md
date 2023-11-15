@@ -2,11 +2,11 @@
 about me: I am Biostatistician.
 education:
   courses:
-    - course: MSc in Biostatistics
-      institution: Stellenbosch University, South Africa
-      year: 2022
-    - course: MSc in Statistics
-      institution: Addis Ababa University, Ethiopia
+    - course: PhD candidate 
+      institution: Ghent University, Belgium
+      year: 2021
+    - course: MPH in Biostatistics
+      institution: Gondar University, Ethiopia
       year: 2017
     - course: BSc in Statistics
       institution: Wollo University, Ethiopia
@@ -16,34 +16,35 @@ email: ""
 highlight_name: true
 
 interests:
-- Causal inference/Impact Evaluation
-- Longitudinal Data Analysis
+- Causal inference
 - Survival Data Analysis
+- Longitudinal Data Analysis
+- Meta-analysis
+
 
 
 organizations:
 
 - name: Debre Markos University
 
-role: Lecturer at Department of Statistics and Researcher at C4ED
+role: PhD student
 social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
 - icon: github
   icon_pack: fab
-  link: https://github.com/Yebelay
+  link: https://github.com/muluneh20222
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/yebelay/
+  link: https://www.linkedin.com/in/muluneh-alene-0024291b9/
 - icon: orcid
   icon_pack: ai
-  link: http://orcid.org/0000-0001-7234-4804 
+  link: https://orcid.org/0000-0002-1485-9014 
 superuser: true
-title: Yebelay Berehan
+title: Muluneh Alene
 ---
 
-Yebelay Berehan is a lecturer of Biostatistics at department of Statistics and Researcher at Center for Evaluation and development. I have 11 year of experience in teaching and implementing statistics. My interest is Causal inference, Longitudinal data analysis, Survival data analysis. I am good in statistical programming and data analytics using R.  Statistical software: R SAS, STATA, SPSS. 
+Muluneh Alene is a lecturer of Biostatistics at department of Public health. I have 11 year of experience in teaching and implementing statistics. My interest is Causal inference, Longitudinal data analysis, Survival data analysis. I am good in statistical programming and data analytics using R.  Statistical software: R SAS, STATA, SPSS. 
 
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume1.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.pdf" "newtab" >}}CV{{< /staticref >}}.
