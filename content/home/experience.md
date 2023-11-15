@@ -38,6 +38,13 @@ experience:
     location: Ethiopia
     date_start: '09, April 2019'
     date_end: ''
+  - title: Lecturer
+    company: "[Debre Markos University](http://www.dmu.edu.et/)" 
+    company_url: ''
+    #company_logo: org-x
+    location: Ethiopia
+    date_start: '09, April 2019'
+    date_end: ''
   - title: PhD student
     company: "[Ghent University](https://www.ugent.be/en/)" 
     company_url: ''
