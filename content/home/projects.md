@@ -27,11 +27,11 @@ content:
   filter_button:
     - name: Statistical Computing
       tag: '*'
-    - name: Causal Inference
+    - name: Biostatistics&Epidemiology
       tag: '*'
     - name: Regression Analysis
       tag: Regression Analysis
-    - name: Impact Evaluation
+    - name: Categorical Data Analysis
       tag: '*'
 
 design:
@@ -47,5 +47,4 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
-  
 ---
