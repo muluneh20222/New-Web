@@ -2,7 +2,7 @@
 about me: I am Biostatistician.
 education:
   courses:
-  - course: PhD candidate 
+    - course: PhD candidate 
 institution: Ghent University, Belgium
 year: 2021
 - course: MPH in Biostatistics
