@@ -41,10 +41,10 @@ experience:
     date_end: ''
 
   - title: PhD student
-    company: "[Gondar/Ghent University](http://www.ugent.be/)" 
+    company: "[Ghent/Gondar University](http://www.ugent.be/)" 
     company_url: ''
     #company_logo: org-x
-    location: Ethiopia/Belgium
+    location: Belgium/Ethiopia
     date_start: '2021-10-01'
     date_end: ''
 
