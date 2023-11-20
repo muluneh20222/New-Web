@@ -24,27 +24,28 @@ date_format: Jan 2006
 experience:
 
   - title: Lecturer
-    company: "[Debre Markos University](http://www.dmu.edu.et/)" 
+    company: "[Mizan-Tepi University](http://www.mtu.edu.et/)" 
     company_url: ''
     #company_logo: org-x
     location: Ethiopia
-    date_start: '2013-01-01'
-    date_end: '2023-06-30'
+    date_start: '2013-12-30'
+    date_end: '2019-04-09'
     
-  - title: Lecturer
-    company: "[Debre Markos University](http://www.dmu.edu.et/)" 
-    company_url: ''
-    #company_logo: org-x
-    location: Ethiopia
-    date_start: '2013-01-01'
-    date_end: '2023-06-30'
 
   - title: Lecturer
     company: "[Debre Markos University](http://www.dmu.edu.et/)" 
     company_url: ''
     #company_logo: org-x
     location: Ethiopia
-    date_start: '2013-01-01'
+    date_start: '2019-04-10'
+    date_end: ''
+
+  - title: PhD student
+    company: "[Ghent University](http://www.ugent.be/)" 
+    company_url: ''
+    #company_logo: org-x
+    location: Belgium
+    date_start: '2021-10-01'
     date_end: ''
 
 design:
