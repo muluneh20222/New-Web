@@ -1,5 +1,5 @@
 ---
-title: "R Markdown"
+title: "Seminars presented at UoG"
 author: "Muluneh Alene"
 date: 2022-05-16T21:13:14-05:00
 categories: ["R"]
@@ -9,8 +9,6 @@ tags: ["R Markdown", "plot", "regression"]
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
-
-# R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
