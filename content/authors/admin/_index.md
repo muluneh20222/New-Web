@@ -2,11 +2,11 @@
 about me: I am Biostatistician.
 education:
   courses:
-    - course: PhD candidate 
-      institution: Ghent University, Belgium
-      year: 2021
-    - course: MPH in Biostatistics
-      institution: Gondar University, Ethiopia
+    - course: MSc in Biostatistics
+      institution: Stellenbosch University, South Africa
+      year: 2022
+    - course: MSc in Statistics
+      institution: Addis Ababa University, Ethiopia
       year: 2017
     - course: BSc in Statistics
       institution: Wollo University, Ethiopia
@@ -16,35 +16,33 @@ email: ""
 highlight_name: true
 
 interests:
-  - Causal inference
-  - Survival data analysis
-  - Longitudinal data analysis
-  - Meta-analysis
-
+- Causal inference/Impact Evaluation
+- Longitudinal Data Analysis
+- Survival Data Analysis
 
 
 organizations:
-  - name: Ghent University/Gondar University
 
-role: PhD student
+- name: Debre Markos University
+
+role: Lecturer at Department of Statistics and Researcher at C4ED
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: /#contact
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/muluneh20222
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/muluneh-alene-0024291b9/
-  - icon: orcid
-    icon_pack: ai
-    link: https://orcid.org/0000-0002-1485-9014 
+- icon: envelope
+  icon_pack: fas
+  link: /#contact
+- icon: github
+  icon_pack: fab
+  link: https://github.com/Yebelay
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yebelay/
+- icon: orcid
+  icon_pack: ai
+  link: http://orcid.org/0000-0001-7234-4804 
 superuser: true
-title: Muluneh Alene
-
+title: Yebelay Berehan
 ---
 
-I am a PhD student at Ghent/Gondar University. I have 11 year of experience in teaching and implementing statistics. My research interest focuses on causal inference, meta-analysis, and survival data analysis. I am good in utilizing R for statistical programming and conducting data analytics.  
+I have dual master's degrees in Biostatistics from Stellenbosch University and Statistics from Addis Ababa University, coupled with 11+ years of experience in project leading, data management, analysis, and teaching. These experiences equipped me with a deep understanding of complex data, its management, analysis and use with application of different statistical methods. I have interest in causal inference, longitudinal data analysis and survival data analysis. I have a piece of statistical software training experiences (R, SAS, SPSS). 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Resume.doc" "newtab" >}}CV{{< /staticref >}}.
+To download or look my CV click {{< staticref "uploads/resume.pdf" "newtab" >}} {{< icon name="download" pack="fas" >}}{{< /staticref >}}.
